@@ -55,9 +55,11 @@ public class TypedBibEntry {
     }
     
     public void DummyMethod3() {
+        // Fixing something
     }
     
-    public void dummyMethod() {
+    public void DummyMethod() {
+        // Changing something
     }
     
     public void dummyFunction() {
