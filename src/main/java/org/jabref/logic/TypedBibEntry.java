@@ -54,6 +54,12 @@ public class TypedBibEntry {
         return entry.getType().getDisplayName();
     }
     
+    public void DummyMethod3() {
+    }
+    
+    public void DummyMethod() {
+    }
+    
     public void dummyFunction() {
     }
 }
