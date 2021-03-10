@@ -61,5 +61,6 @@ public class TypedBibEntry {
     }
     
     public void dummyFunction() {
+        // TODO
     }
 }
