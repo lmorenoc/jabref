@@ -53,4 +53,7 @@ public class TypedBibEntry {
     public String getTypeForDisplay() {
         return entry.getType().getDisplayName();
     }
+    
+    public void dummyFunction() {
+    }
 }
